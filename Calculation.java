@@ -3,6 +3,6 @@ public class Calculation{
         sum(4,5);
     }
     public static int sum(int a, int b) {
-        return a + b;
+        return a + c;
     }
 }
